@@ -4,7 +4,7 @@ import random
 import time
 
 # Sua chave de API do TMDb
-API_KEY = "d78f9edcc46b81eeaaf33881876d449e"  # Substitua pela sua chave de API
+API_KEY = "Substitua pela sua chave de API"  # Substitua pela sua chave de API
 BASE_URL = "https://api.themoviedb.org/3"
 
 # Função para buscar filmes por gênero e plataforma
